@@ -10,10 +10,6 @@
 #include <string.h>
 
 
-
-
-
-
 //데이터 형식 지정.
 typedef char data;
 
