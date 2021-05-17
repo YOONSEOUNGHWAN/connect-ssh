@@ -11,6 +11,7 @@
 
 
 //데이터 형식 지정.
+
 typedef char data;
 
 //스택 구현.
